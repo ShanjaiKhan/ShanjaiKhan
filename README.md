@@ -41,6 +41,8 @@ I am a <b>Microservice-Java Full Stack Developer</b> with experience in developi
 ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20)
+
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
